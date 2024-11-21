@@ -4,8 +4,3 @@ A final-year Computer Science student at Universiti Malaysia Pahang Al-Sultan Ab
 
 I am passionate about applying my knowledge to real-world challenges and am eager to contribute to the software development industry. I am continuously honing my skills and staying up-to-date with the latest trends and technologies. As I approach the end of my degree, I am excited to further develop my expertise, collaborate with like-minded professionals, and make meaningful contributions to the field of software engineering.
 
-## Repository Stats
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/athirahly/KAFAMS)
-![Languages](https://img.shields.io/github/languages/top/athirahly/KAFAMS)
-
