@@ -6,6 +6,6 @@ I am passionate about applying my knowledge to real-world challenges and am eage
 
 ## Repository Stats
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/athirahly/repository)
-![Languages](https://img.shields.io/github/languages/top/athirahly/repository)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/athirahly/KAFAMS)
+![Languages](https://img.shields.io/github/languages/top/athirahly/KAFAMS)
 
